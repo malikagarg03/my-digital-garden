@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"],"created":"2026-05-02T00:37:36.910+05:30","updated":"2026-05-03T16:02:35.100+05:30"}
 ---
 
 

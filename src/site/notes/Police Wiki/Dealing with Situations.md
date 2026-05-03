@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/dealing-with-situations/"}
+{"dg-publish":true,"permalink":"/police-wiki/dealing-with-situations/","created":"2026-05-03T15:45:10.737+05:30","updated":"2026-05-03T15:59:39.971+05:30"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/joining-a-new-place-of-posting/"}
+{"dg-publish":true,"permalink":"/police-wiki/joining-a-new-place-of-posting/","created":"2026-05-03T15:44:24.015+05:30","updated":"2026-05-03T16:02:40.808+05:30"}
 ---
 
 
