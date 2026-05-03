@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/malika-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/publish/malika-s-digital-garden/"}
 ---
 
 
@@ -7,6 +7,5 @@ A living collection of notes, guides, workflows, and ideas.
 
 ## Start here
 
-- [[Police Wiki\|Police Wiki]]
-- [[Prompt Library\|Prompt Library]]
+- [[Publish/Police Wiki\|Police Wiki]]
 - 
