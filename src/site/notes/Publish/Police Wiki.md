@@ -2,25 +2,43 @@
 {"dg-publish":true,"permalink":"/publish/police-wiki/","tags":["gardenEntry"]}
 ---
 
+# Police Wiki
 
 A practical guide for officers to think clearly and act effectively in real situations.
 
-## When Joining a new place of posting
-I suggest that when you get your order of posting you should contact your CC/PA/Assistant and ask the units under you to collect and prepare the following for your review immediately upon joining. This sends a message that you mean business and you will get down to work without wasting time.
-- Organisation structure of the district
-- Geography/Demographics/Means of transport/Road/ Rail Network
-- Crime statistics -- 
-	- [[Format of crime statistics to be collected\|Format of crime statistics to be collected]]
-	- [[How to review crime statistics\|How to review crime statistics]]
-- List of important/sensational crimes that occurred in the past one year
-- List of law and order issues both planned (eg major festivals) or unplanned (eg riots/clashes) that routinely occur. Particularly collect list of what all happened in the last year.
-- List of important persons in the district/subdivision along with their profiles including politicians, pressure groups
-- Profiles of police officers esp DSPs, CIs, SIs
-- Matters relating to police personnel.
+Built for young IPS and DySP rank officers. Useful for anyone in the field.
 
+## 🗂 Sections
 
+### [[Joining a New Posting\|Joining a New Posting]]
+What to collect, who to meet, and what to understand in your first days.
 
-## Dealing with situations
-- [[Something Happened — What Should I Do?\|Something Happened — What Should I Do?]] 
-- [[How to Think Through a Situation\|How to Think Through a Situation]]
-  
+### [[Dealing with Situations\|Dealing with Situations]]
+How to think and act when something happens — incidents, crises, calls in the middle of the night.
+
+### [[Managing Your SHOs\|Managing Your SHOs]]
+The most important working relationship you have. How to lead, direct, and get the best out of your circle inspectors and SHOs.
+
+### [[Briefing Your Seniors\|Briefing Your Seniors]]
+What SPs and DGPs actually want to hear. How to structure a briefing under pressure.
+
+### [[Supervising Investigations\|Supervising Investigations]]
+How to oversee a case without doing the investigator's job. What questions to ask. What to watch for.
+
+### [[Law and Order\|Law and Order]]
+Bandobast, processions, communal situations, elections. How to plan and how to respond.
+
+### [[Formats and Templates\|Formats and Templates]]
+Crime statistics, duty rosters, review formats.
+
+---
+
+## 🚀 Start Here
+
+New to a posting? → [[Joining a New Posting\|Joining a New Posting]]
+
+Got a call about something happening right now? → [[Dealing with Situations\|Dealing with Situations]]
+
+---
+
+*This is a living document. 
