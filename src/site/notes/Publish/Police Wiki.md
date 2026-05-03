@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/publish/police-wiki/","tags":["gardenEntry"]}
 ---
 
-# Police Wiki
 
 A practical guide for officers to think clearly and act effectively in real situations.
 
@@ -13,7 +12,7 @@ Built for young IPS and DySP rank officers. Useful for anyone in the field.
 ### [[Joining a New Posting\|Joining a New Posting]]
 What to collect, who to meet, and what to understand in your first days.
 
-### [[Dealing with Situations\|Dealing with Situations]]
+### [[Publish/Dealing with Situations\|Dealing with Situations]]
 How to think and act when something happens — incidents, crises, calls in the middle of the night.
 
 ### [[Managing Your SHOs\|Managing Your SHOs]]
@@ -37,7 +36,7 @@ Crime statistics, duty rosters, review formats.
 
 New to a posting? → [[Joining a New Posting\|Joining a New Posting]]
 
-Got a call about something happening right now? → [[Dealing with Situations\|Dealing with Situations]]
+Got a call about something happening right now? → [[Publish/Dealing with Situations\|Dealing with Situations]]
 
 ---
 
