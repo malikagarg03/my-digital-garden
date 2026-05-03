@@ -9,7 +9,7 @@ Built for young IPS and DySP rank officers. Useful for anyone in the field.
 
 ## 🗂 Sections
 
-### [[Police Wiki/Joining a New Posting\|Joining a New Posting]]
+### [[Police Wiki/Joining a New Place of Posting\|Joining a New Place of Posting]]
 What to collect, who to meet, and what to understand in your first days.
 
 ### [[Police Wiki/Dealing with Situations\|Dealing with Situations]]
@@ -34,7 +34,7 @@ Crime statistics, duty rosters, review formats.
 
 ## 🚀 Start Here
 
-New to a posting? → [[Police Wiki/Joining a New Posting\|Joining a New Posting]]
+New to a posting? → [[Police Wiki/Joining a New Place of Posting\|Joining a New Place of Posting]]
 
 Got a call about something happening right now? → [[Police Wiki/Dealing with Situations\|Dealing with Situations]]
 
