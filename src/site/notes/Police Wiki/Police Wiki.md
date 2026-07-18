@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"],"created":"2026-05-02T00:37:36.910+05:30","updated":"2026-07-18T10:23:59.827+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"],"created":"2026-05-02T00:37:36.910+05:30","updated":"2026-07-18T10:33:52.808+05:30"}
 ---
 
 
@@ -11,6 +11,8 @@ Articles till now:
 1. [[Police Wiki/Taking charge of a New Posting\|Taking charge of a New Posting]]
 2. [[Police Wiki/Joining a New Place of Posting (a checklist)\|Joining a New Place of Posting (a checklist)]]
 3. [[Police Wiki/Dealing with Situations\|Dealing with Situations]]
+4. [[Police Wiki/Something Happened — What Should I Do?\|Something Happened — What Should I Do?]]
+
 
 
 
