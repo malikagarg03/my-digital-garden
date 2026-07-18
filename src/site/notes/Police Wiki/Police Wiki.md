@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"],"created":"2026-05-02T00:37:36.910+05:30","updated":"2026-07-18T10:37:15.088+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/police-wiki/","tags":["gardenEntry"],"created":"2026-05-02T00:37:36.910+05:30","updated":"2026-07-18T10:45:47.354+05:30"}
 ---
 
 
@@ -9,8 +9,7 @@ Built for young IPS and DySP rank officers. Useful for anyone in the field.
 
 Articles till now:
 1. [[Police Wiki/Taking charge of a New Posting\|Taking charge of a New Posting]]
-2. [[Police Wiki/Joining a New Place of Posting (a checklist)\|Joining a New Place of Posting (a checklist)]]
-3. [[Police Wiki/Something Happened — What Should I Do?\|Something Happened — What Should I Do?]]
+2. [[Police Wiki/Something Happened — What Should I Do?\|Something Happened — What Should I Do?]]
 
 
 
