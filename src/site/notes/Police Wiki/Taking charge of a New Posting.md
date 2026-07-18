@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/taking-charge-of-a-new-posting/","created":"2026-07-18T10:21:16.775+05:30","updated":"2026-07-18T10:28:30.129+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/taking-charge-of-a-new-posting/","created":"2026-07-18T10:21:16.775+05:30","updated":"2026-07-18T10:49:52.799+05:30"}
 ---
 
-# Taking Charge of a New Posting (Draft)
 
 *These are my evolving notes on what I have learnt about taking charge of a new police unit. They are based entirely on my own experiences and mistakes. I expect these notes to change as I gain more experience.*
 
 ---
 
-## The biggest mistake I made
+# The biggest mistake I made
 
 When I first became an SDPO, I thought my job was to make decisions.
 
