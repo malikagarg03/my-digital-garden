@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/situations/taking-charge-of-a-new-posting/","tags":["#situation"],"created":"2026-07-18T10:21:16.775+05:30","updated":"2026-07-20T12:21:06.762+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/situations/taking-charge-of-a-new-posting/","tags":["#situation"],"created":"2026-07-20T12:46:12.182+05:30","updated":"2026-07-20T12:46:12.182+05:30"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 **Tactic(s) this calls for:**
 
-**Techniques relevant here:**
+**Techniques relevant here:** [[Police Wiki/Techniques/Tracking Constables by Native Village\|Tracking Constables by Native Village]]
 
 ## Notes
 *These are my evolving notes on what I have learnt about taking charge of a new police unit. They are based entirely on my own experiences and mistakes. I expect these notes to change as I gain more experience.*
