@@ -27,10 +27,10 @@ Most police knowledge gets filed by *what happened* — riot, murder, VIP visit,
 | [[Police Wiki/Situational Awareness & Assessment\|Situational Awareness & Assessment]] | Understand |
 | [[Police Wiki/Planning & Decision-Making\|Planning & Decision-Making]] | Decide |
 | [[Police Wiki/Resourcing & Deployment\|Resourcing & Deployment]] | Prepare |
-| [[Police Wiki/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]] | Direct |
+| [[Police Wiki/Tactics/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]] | Direct |
 | [[Police Wiki/Influencing & Shaping Behaviour\|Influencing & Shaping Behaviour]] | Influence |
 | [[Police Wiki/Securing & Controlling\|Securing & Controlling]] | Control |
-| [[Police Wiki/Creating an Authoritative Record\|Creating an Authoritative Record]] | Record |
+| [[Police Wiki/Tactics/Creating an Authoritative Record\|Creating an Authoritative Record]] | Record |
 | [[Police Wiki/Supervision & Failure Prevention\|Supervision & Failure Prevention]] | Assure |
 | [[Police Wiki/Leading, Motivating & Developing Personnel\|Leading, Motivating & Developing Personnel]] | Develop |
 | [[Police Wiki/Institutional Learning & Adaptation\|Institutional Learning & Adaptation]] | Learn |

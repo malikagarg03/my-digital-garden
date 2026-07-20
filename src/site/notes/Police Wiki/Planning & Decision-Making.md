@@ -10,6 +10,6 @@
 
 Example techniques (not yet written up as their own notes): operational planning, contingency planning, investigation planning, risk assessment, prioritisation.
 
-Deliberately narrow: once you're assigning tasks, sequencing movements, or allocating resources, you've moved into [[Police Wiki/Resourcing & Deployment\|Resourcing & Deployment]] or [[Police Wiki/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]] instead.
+Deliberately narrow: once you're assigning tasks, sequencing movements, or allocating resources, you've moved into [[Police Wiki/Resourcing & Deployment\|Resourcing & Deployment]] or [[Police Wiki/Tactics/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]] instead.
 
 See [[Police Wiki/Police Wiki\|Police Wiki]] for how this fits into the full framework.

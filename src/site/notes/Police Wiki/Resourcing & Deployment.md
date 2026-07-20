@@ -10,6 +10,6 @@
 
 Example techniques (not yet written up as their own notes): manpower estimation, team selection, equipment allocation, reserve placement, logistics, budgeting, sector deployment.
 
-Covers people and material both — a posting decision and a budget allocation serve the same purpose (right asset, right place) even though the paperwork differs. Kept separate from [[Police Wiki/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]]: allocating assets in advance is a different skill from directing them live.
+Covers people and material both — a posting decision and a budget allocation serve the same purpose (right asset, right place) even though the paperwork differs. Kept separate from [[Police Wiki/Tactics/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]]: allocating assets in advance is a different skill from directing them live.
 
 See [[Police Wiki/Police Wiki\|Police Wiki]] for how this fits into the full framework.
