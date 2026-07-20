@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/something-happened-what-should-i-do/","created":"2026-05-02T01:03:19.758+05:30","updated":"2026-07-18T10:37:01.535+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/something-happened-what-should-i-do/","tags":["#situation"],"created":"2026-05-02T01:03:19.758+05:30","updated":"2026-07-20T12:28:59.389+05:30"}
 ---
 
 

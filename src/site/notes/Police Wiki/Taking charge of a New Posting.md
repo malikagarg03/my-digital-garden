@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/police-wiki/taking-charge-of-a-new-posting/","created":"2026-07-18T10:21:16.775+05:30","updated":"2026-07-18T10:49:52.799+05:30"}
+{"dg-publish":true,"permalink":"/police-wiki/taking-charge-of-a-new-posting/","tags":["#situation"],"created":"2026-07-18T10:21:16.775+05:30","updated":"2026-07-20T12:21:06.762+05:30"}
 ---
 
 
+
+**What this is:** (one line — the real scenario an officer might face)
+
+**Tactic(s) this calls for:**
+
+**Techniques relevant here:**
+
+## Notes
 *These are my evolving notes on what I have learnt about taking charge of a new police unit. They are based entirely on my own experiences and mistakes. I expect these notes to change as I gain more experience.*
 
 ---
