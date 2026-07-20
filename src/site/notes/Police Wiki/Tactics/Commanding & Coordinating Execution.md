@@ -10,6 +10,6 @@
 
 Example techniques (not yet written up as their own notes): briefings, issuing orders, maintaining a common operating picture, inter-agency coordination, reallocating forces, committing reserves.
 
-Live and dynamic, unlike [[Police Wiki/Resourcing & Deployment\|Resourcing & Deployment]] — this is what happens once the operation is actually underway and conditions are changing.
+Live and dynamic, unlike [[Police Wiki/Tactics/Resourcing & Deployment\|Resourcing & Deployment]] — this is what happens once the operation is actually underway and conditions are changing.
 
 See [[Police Wiki/Police Wiki\|Police Wiki]] for how this fits into the full framework.

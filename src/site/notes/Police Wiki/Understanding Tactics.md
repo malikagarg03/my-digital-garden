@@ -9,7 +9,7 @@ Every real skill in policing — reading a crowd, running an investigation, keep
 
 👉 The test for a Tactic: **what is this piece of knowledge actually helping the officer do?**
 
-"Always know which constables belong to which villages" isn't about any one case — it's [[Police Wiki/Gathering Information\|Gathering Information]]. "Never let two hostile groups leave through the same gate" is [[Police Wiki/Securing & Controlling\|Securing & Controlling]]. "Brief the media before rumours fill the vacuum" is [[Police Wiki/Influencing & Shaping Behaviour\|Influencing & Shaping Behaviour]]. Once you can name the tactic, you can find every technique, checklist, and real example filed under it — instead of hunting through old case files or asking around.
+"Always know which constables belong to which villages" isn't about any one case — it's [[Police Wiki/Tactics/Gathering Information\|Gathering Information]]. "Never let two hostile groups leave through the same gate" is [[Police Wiki/Tactics/Securing & Controlling\|Securing & Controlling]]. "Brief the media before rumours fill the vacuum" is [[Police Wiki/Tactics/Influencing & Shaping Behaviour\|Influencing & Shaping Behaviour]]. Once you can name the tactic, you can find every technique, checklist, and real example filed under it — instead of hunting through old case files or asking around.
 
 ---
 
@@ -23,17 +23,17 @@ Most police knowledge gets filed by *what happened* — riot, murder, VIP visit,
 
 | Tactic | In one word |
 |---|---|
-| [[Police Wiki/Gathering Information\|Gathering Information]] | Know |
-| [[Police Wiki/Situational Awareness & Assessment\|Situational Awareness & Assessment]] | Understand |
-| [[Police Wiki/Planning & Decision-Making\|Planning & Decision-Making]] | Decide |
-| [[Police Wiki/Resourcing & Deployment\|Resourcing & Deployment]] | Prepare |
+| [[Police Wiki/Tactics/Gathering Information\|Gathering Information]] | Know |
+| [[Police Wiki/Tactics/Situational Awareness & Assessment\|Situational Awareness & Assessment]] | Understand |
+| [[Police Wiki/Tactics/Planning & Decision-Making\|Planning & Decision-Making]] | Decide |
+| [[Police Wiki/Tactics/Resourcing & Deployment\|Resourcing & Deployment]] | Prepare |
 | [[Police Wiki/Tactics/Commanding & Coordinating Execution\|Commanding & Coordinating Execution]] | Direct |
-| [[Police Wiki/Influencing & Shaping Behaviour\|Influencing & Shaping Behaviour]] | Influence |
-| [[Police Wiki/Securing & Controlling\|Securing & Controlling]] | Control |
+| [[Police Wiki/Tactics/Influencing & Shaping Behaviour\|Influencing & Shaping Behaviour]] | Influence |
+| [[Police Wiki/Tactics/Securing & Controlling\|Securing & Controlling]] | Control |
 | [[Police Wiki/Tactics/Creating an Authoritative Record\|Creating an Authoritative Record]] | Record |
-| [[Police Wiki/Supervision & Failure Prevention\|Supervision & Failure Prevention]] | Assure |
-| [[Police Wiki/Leading, Motivating & Developing Personnel\|Leading, Motivating & Developing Personnel]] | Develop |
-| [[Police Wiki/Institutional Learning & Adaptation\|Institutional Learning & Adaptation]] | Learn |
+| [[Police Wiki/Tactics/Supervision & Failure Prevention\|Supervision & Failure Prevention]] | Assure |
+| [[Police Wiki/Tactics/Leading, Motivating & Developing Personnel\|Leading, Motivating & Developing Personnel]] | Develop |
+| [[Police Wiki/Tactics/Institutional Learning & Adaptation\|Institutional Learning & Adaptation]] | Learn |
 
 Every tactic can serve Investigation, Law and Order, or both — that's tracked on the technique underneath it, not on the tactic itself. Visit each tactic's own page for the techniques, checklists, and real examples filed under it, or browse [[Tactics.base|all tactics]] and [[Techniques.base|all techniques]] directly.
 

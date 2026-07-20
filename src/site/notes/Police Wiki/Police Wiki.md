@@ -18,8 +18,8 @@ This structure is loose and still being worked out. It'll get more rigorous as m
 
 ## Articles till now
 
-1. [[Police Wiki/Taking charge of a New Posting\|Taking charge of a New Posting]]
-2. [[Police Wiki/Something Happened — What Should I Do?\|Something Happened — What Should I Do?]]
+1. [[Police Wiki/Situations/Taking charge of a New Posting\|Taking charge of a New Posting]]
+2. [[Police Wiki/Situations/Something Happened — What Should I Do?\|Something Happened — What Should I Do?]]
 3. [[Police Wiki/Understanding Tactics\|Understanding Tactics]]
 
 ---
